@@ -1,6 +1,6 @@
 # LoRA 训练指南
 -> **Stable Diffusion LoRA 训练的科学与指南** <-  
-(原文地址)[https://rentry.org/59xed3]  
+[原文地址](https://rentry.org/59xed3)  
 !!! 提示：这个版本是译本，并且添加了我自己的理解，以及教学。  
 !!! 提示：这不是安装指南，而是一份提高训练结果的手册，包含各项设置的详细说明，并提供关于如何在图像质量较差或数量不足的情况下训练角色的技巧。  
 !!! 警告：由于LyCORIS的使用频率增加，我将开始称呼常规LoRA为LoRA-LierLa。如果文中未特别指明LoRA类型，请默认为LoRA-LierLa。不同的LyCORIS类型将以LyCORIS-(类型)命名，如LyCORIS-LoKR。若没有具体说明，则该内容适用于大多数LyCORIS类型。  
